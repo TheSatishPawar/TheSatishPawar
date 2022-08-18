@@ -1,3 +1,6 @@
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/thesatishpawar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thesatishpawar" /></a></p><br><br><br><br>
+
 <h1 align="center">Hi 👋, I'm Satish</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" height="342.0722891566265" alt="Programmer GIF - Programmer GIFs" style="max-width: 546px;">
