@@ -29,6 +29,7 @@
 <div width="100%"> 
      <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thesatishpawar&show_icons=true&locale=en&layout=compact" alt="thesatishpawar" 
   </div> 
+  <br>
   <div width="100%"> 
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=thesatishpawar&show_icons=true&locale=en" alt="thesatishpawar" />
 </div>
