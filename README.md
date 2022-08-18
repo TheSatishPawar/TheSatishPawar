@@ -27,17 +27,12 @@
 <p><a href="https://www.buymeacoffee.com/thesatishpawar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thesatishpawar" /></a></p><br><br><br><br>
 
 <div width="100%"> 
-  <span>
-    <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thesatishpawar&show_icons=true&locale=en&layout=compact" alt="thesatishpawar" />
-  </span> 
-  <span >
+     <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thesatishpawar&show_icons=true&locale=en&layout=compact" alt="thesatishpawar" 
+  </div> 
+  <div width="100%"> 
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=thesatishpawar&show_icons=true&locale=en" alt="thesatishpawar" />
-  </span> 
 </div>
 <div width="100%" style="display: table-cell;'"> 
-  <span>
-    <p align="left" ></p>
-  </span> 
  
    <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thesatishpawar&" alt="thesatishpawar" />
  
