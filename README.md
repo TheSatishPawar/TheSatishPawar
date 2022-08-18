@@ -29,13 +29,13 @@
 <div width="100%"> 
      <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thesatishpawar&show_icons=true&locale=en&layout=compact" alt="thesatishpawar" 
   </div> 
-  <br>
-  <div width="100%"> 
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=thesatishpawar&show_icons=true&locale=en" alt="thesatishpawar" />
+  <br><br><br><br><br><br><br>
+  <div width="100%" align="centre"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=thesatishpawar&show_icons=true&locale=en" alt="thesatishpawar" />
 </div>
-<div width="100%" style="display: table-cell;'"> 
+<div width="100%"  align="centre"> 
  
-   <img  align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=thesatishpawar&" alt="thesatishpawar" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesatishpawar&" alt="thesatishpawar" />
  
 </div>
 
